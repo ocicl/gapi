@@ -1,0 +1,9 @@
+* gapi
+
+Google API client for Common Lisp.
+
+|---------+--------------------------------------------------------------------|
+| source  | file:https://github.com/Junker/gapi/archive/refs/tags/0.1.0.tar.gz |
+| version | 0.1.0                                                              |
+| systems | gapi                                                               |
+|---------+--------------------------------------------------------------------|
