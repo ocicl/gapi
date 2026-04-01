@@ -7,3 +7,4 @@ Google API client for Common Lisp.
 | version | 0.1.0                                                              |
 | systems | gapi                                                               |
 |---------+--------------------------------------------------------------------|
+ 
